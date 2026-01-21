@@ -16,10 +16,10 @@ I am a trilingual professional with a 16-year career in complex data analysis an
 ---
 
 ## 🛠️ Technical Skill Stack
-| **Offensive Security** | Kali Linux, Nmap, Burp Suite, Metasploit, Hashcat |
-| **Networking** | TCP/IP, DNS, Active Directory, VPNs |
-| **Development** | Python (Automation), Bash Scripting, HTML/CSS |
-| **Audio/Digital** | Reaper, Ableton Live, MIDI Programming |
+- | **Offensive Security** | Kali Linux, Nmap, Burp Suite, Metasploit, Hashcat |
+- | **Networking** | TCP/IP, DNS, Active Directory, VPNs |
+- | **Development** | Python (Automation), Bash Scripting, HTML/CSS |
+- | **Audio/Digital** | Reaper, Ableton Live, MIDI Programming |
 
 ---
 
