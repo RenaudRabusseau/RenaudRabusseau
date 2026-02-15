@@ -1,4 +1,4 @@
-# 🛡️ Renaud Rabusseau | Interpreter/Translator & IT/OT Security Student
+# 🛡️ Renaud Rabusseau | Senior Interpreter/Translator & IT/OT Security Student
 
 ### Translator/Interpreter transitioning to Cyber Security. 
 **16+ years of linguistic precision now applied to Offensive Security. OSCP Candidate | Trilingual | 💻🎸**
