@@ -19,7 +19,7 @@ I am a trilingual professional with a 16-year career in complex data analysis an
 - | **Offensive Security** | Kali Linux, Nmap, Burp Suite, Metasploit, Hashcat |
 - | **Networking** | TCP/IP, DNS, Active Directory, VPNs |
 - | **Development** | Python (Automation), Bash Scripting, HTML/CSS, C++ |
-- | **Audio/Digital** | Reaper, Ableton Live, MIDI Programming |
+- | **Audio/Digital** | Reaper, Ableton Live, MIDI/DMX Programming |
 - | **Electronics** | Arduino prototyping, BTS CIEL |
 
 ---
