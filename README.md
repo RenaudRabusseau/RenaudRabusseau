@@ -1,4 +1,4 @@
-Renaud Rabusseau | Senior Interpreter/Translator & IT/OT Security Student
+Renaud Rabusseau | IT/OT Security & Embedded Systems | OSCP Candidate | BTS CIEL
 
 ### Translator/Interpreter transitioning to Cyber Security. 
 **16+ years of linguistic precision now applied to Offensive Security. OSCP Candidate | Trilingual | 💻🎸**
@@ -6,7 +6,7 @@ Renaud Rabusseau | Senior Interpreter/Translator & IT/OT Security Student
 ---
 
 ## About Me
-I am a trilingual professional with a 16-year career in complex data analysis and intercultural communication. I am currently applying my analytical rigor and "system-thinking" to the field of **Offensive Security**.
+I am a trilingual professional with a 16-year career in complex data analysis and intercultural communication. My goal is to operate at the intersection of embedded systems, offensive security, and applied AI.
 
 - **Current Focus:** Mastering IT/OT Security with hands-on learning.
 - **Education:** Actively preparing for the **OSCP (Offensive Security Certified Professional)** & **GICSP (Global Industrial Cyber Security Professional)**.
@@ -21,6 +21,7 @@ I am a trilingual professional with a 16-year career in complex data analysis an
 - **Development** : Python (Automation), Bash Scripting, HTML/CSS, MicroPython/C++ embedded
 - **Audio/Digital** : Reaper, Ableton Live, MIDI/DMX Programming
 - **Electronics** : Arduino prototyping, BTS CIEL
+- **AI/LLM** : Ollama, Open WebUI, local inference, agentic workflows
 
 ---
 
@@ -29,7 +30,7 @@ I am a trilingual professional with a 16-year career in complex data analysis an
 - [x] Completed TryHackMe: Introduction to Cyber Security
 - [ ] In Progress: TryHackMe Jr. Penetration Tester
 - [ ] Upcoming: BTS CIEL (AFTEC Orléans)
-- [ ] Upcoming: OSCP PEN-200 Certification Course % GICSP
+- [ ] Upcoming: OSCP PEN-200 Certification Course & GICSP
 
 ---
 
@@ -43,5 +44,5 @@ When I'm not in the terminal, you'll find me:
 
 ## How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/renaud-rabusseau-39a25a3a2/
-- **Personal Portfolio:** Website should be coming soon, currently working on an art project for an exhibit at "La Fondation du Doute" (Blois, France). The CHAOS PIANO, an interactive noise experience!  
+- **Personal Portfolio:** Website in development, currently working on an art project for an exhibit at "La Fondation du Doute" (Blois, France) [🎹 Chaos Piano](https://github.com/RenaudRabusseau/Chaos_Piano_Phase1)  
 - **Discord:** rabataj
