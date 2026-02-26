@@ -16,11 +16,11 @@ I am a trilingual professional with a 16-year career in complex data analysis an
 ---
 
 ## Technical Skill Stack
-- | **Offensive Security** | Kali Linux, Nmap, Burp Suite, Metasploit, Hashcat |
-- | **Networking** | TCP/IP, DNS, Active Directory, VPNs |
-- | **Development** | Python (Automation), Bash Scripting, HTML/CSS, C++ |
-- | **Audio/Digital** | Reaper, Ableton Live, MIDI/DMX Programming |
-- | **Electronics** | Arduino prototyping, BTS CIEL |
+- **Offensive Security** : Kali Linux, Nmap, Burp Suite, Metasploit, Hashcat
+- **Networking** : TCP/IP, DNS, Active Directory, VPNs
+- **Development** : Python (Automation), Bash Scripting, HTML/CSS, MicroPython/C++ embedded
+- **Audio/Digital** : Reaper, Ableton Live, MIDI/DMX Programming
+- **Electronics** : Arduino prototyping, BTS CIEL
 
 ---
 
@@ -28,6 +28,7 @@ I am a trilingual professional with a 16-year career in complex data analysis an
 - [x] Completed TryHackMe: Pre-Security Path
 - [x] Completed TryHackMe: Introduction to Cyber Security
 - [ ] In Progress: TryHackMe Jr. Penetration Tester
+- [ ] Upcoming: BTS CIEL (AFTEC Orléans)
 - [ ] Upcoming: OSCP PEN-200 Certification Course % GICSP
 
 ---
