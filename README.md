@@ -42,5 +42,5 @@ When I'm not in the terminal, you'll find me:
 
 ## How to Reach Me
 - **LinkedIn:** https://www.linkedin.com/in/renaud-rabusseau-39a25a3a2/
-- **Personal Portfolio:** Website should be coming soon, currently working on an art project for an exhibit at "La Fondation du Doute" (Bourges, France). The CHAOS PIANO, an interactive noise experience!  
+- **Personal Portfolio:** Website should be coming soon, currently working on an art project for an exhibit at "La Fondation du Doute" (Blois, France). The CHAOS PIANO, an interactive noise experience!  
 - **Discord:** rabataj
