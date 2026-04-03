@@ -9,7 +9,7 @@ Renaud Rabusseau | IT/OT Security & Embedded Systems | OSCP Candidate | BTS CIEL
 I am a trilingual professional with a 16-year career in complex data analysis and intercultural communication. My goal is to operate at the intersection of embedded systems, offensive security, and applied AI.
 
 - **Current Focus:** Mastering IT/OT Security with hands-on learning.
-- **Education:** Actively preparing for the **OSCP (Offensive Security Certified Professional)** & **GICSP (Global Industrial Cyber Security Professional)**.
+- **Education:** Actively preparing for a BTS CIEL (Cybersec, IT and networking, Electronics) + OT/IT certifications.
 - **Lab Setup:** Electronics and IT Home-Lab.
 - **Languages:** French (Native), English (Bilingual), Spanish (Fluent).
 
